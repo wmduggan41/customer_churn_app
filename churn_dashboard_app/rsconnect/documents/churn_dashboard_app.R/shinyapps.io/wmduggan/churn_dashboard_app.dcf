@@ -1,0 +1,12 @@
+name: churn_dashboard_app
+title: churn_dashboard_app
+username: wmduggan
+account: wmduggan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9926239
+bundleId: 7730321
+url: https://wmduggan.shinyapps.io/churn_dashboard_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
